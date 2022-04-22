@@ -1,0 +1,41 @@
+card_id,question,answer,image_url,deck_id
+2,Arabic,"asalaam alaikum, Marhaba","",1
+1,English,hello,"",1
+4,French,bonjour,"",1
+5,German,"hallo, guten tag","",1
+6,Italian,salve,"",1
+7,Portuguese,olá,"",1
+8,Japanese,konnichiwa,"",1
+9,Korean,anyoung haseyo,"",1
+10,Russian,Zdravstvuyte,"",1
+11,Chinese,Nǐ hǎo,"",1
+12,Hebrew,Shalom,"",1
+13,Greek,Yasou,"",1
+14,Welsh,Shwmae,"",1
+15,How many digits does the value of Pi have? ,Infinite,"",2
+16,What comes after a trillion?,Quadrillion,"",2
+17,In what country where the Arabic Numerals invented?,India,"",2
+18,What prime number comes after 7?,11,"",2
+19,What is the perimeter of the circle called?,Circumference,"",2
+20,Another name for base two is...,Binary,"",2
+21,Swahili,Hujambo,"",1
+22,Zulu,Sawubona,"",1
+23,Igbo,Nde-ewo,"",1
+25,Carpe diem.,Seize the day.,"",3
+26,"Veni, vidi, vici.","I came, I saw, I conquered.","",3
+24,"Et tu, Brute?","“And you, Brutus?”","",3
+27,Quid pro quo,Something for something,"",3
+28,Bona fide,In good faith,"",3
+29,Ad infinitum,To infinity,"",3
+30,Et cetera,And other similar things,"",3
+31,How many degrees in a circle?,360,"",4
+33,How many sides to an octagon?,Eight,"",4
+34,Two lines that never intersect are called...,Parallel,"",4
+35,Formula for the circumference of a circle?,2πr,"",4
+36,Test Question,Test Answer,"",4
+37,123,123,"",6
+3,Spanish,hola,"",1
+38,Question 1,Answer 1,"",10
+39,Question 2,Answer 2,"",10
+40,Question 3,Answer 3,"",10
+41,Question 4,Answer 4,"",10

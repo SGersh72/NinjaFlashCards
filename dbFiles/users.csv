@@ -1,0 +1,5 @@
+user_id,username,password_hash,role
+1,user,$2a$08$UkVvwpULis18S19S5pZFn.YHPZt3oaqHZnDwqbCW9pft6uFtkXKDC,ROLE_USER
+2,admin,$2a$08$UkVvwpULis18S19S5pZFn.YHPZt3oaqHZnDwqbCW9pft6uFtkXKDC,ROLE_ADMIN
+3,stefano,$2a$10$FM66VMRxaaddvtAocgCoDOhmsQh4ahzRgPt/vFpOFJ6lBBnKeqV8u,ROLE_USER
+4,lance,$2a$10$l5i0q3x2ilBu50YsmxaFf.tR35l4B4sDdaC6LT74spCfIi0ctMo0G,ROLE_USER

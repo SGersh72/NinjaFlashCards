@@ -1,0 +1,9 @@
+deck_id,deck_status,deck_name,deck_desc,owner_id,genre
+4,2,Geometry,Test your Geometry knowledge!,4,Math
+8,1,Title Name Here,Description Here,3,Math
+9,1,Title Name Here,Description Here,3,Math
+1,1,"""Hello""","What is ""Hello"" in many languages?",3,Science
+2,1,Math Trivia,Answer various math trivia questions.,3,Art
+3,3,Latin Phrases,Cool phrases in Latin,3,Language
+6,2,Title Name Here,Description Here,3,Math
+10,3,Really Cool Title,Cool Description Here,4,Programming
